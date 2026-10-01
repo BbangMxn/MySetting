@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Token Optimizer"
+  short_description: "Reduce token waste with RTK and Headroom"
+  default_prompt: "Use $codex-token-optimizer to reduce token usage while working through this coding task."
+policy:
+  allow_implicit_invocation: true
