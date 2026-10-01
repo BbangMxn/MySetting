@@ -1,0 +1,20 @@
+skills:
+  # Languages
+  rust:
+    source: https://github.com/leonardomso/rust-skills.git
+
+  go:
+    source: https://github.com/jkeddari/go-skills.git
+
+  # Coding Agent
+  caveman:
+    source: https://github.com/JuliusBrussee/caveman.git
+
+  ponytail:
+    source: https://github.com/DietrichGebert/ponytail.git
+
+  rtk:
+    source: https://github.com/rtk-ai/rtk.git
+
+  codegraph:
+    source: https://github.com/sunerpy/codegraph-rust.git
